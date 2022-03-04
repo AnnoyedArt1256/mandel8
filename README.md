@@ -1,5 +1,5 @@
 # mandel8
-the mandelbrot set in chip-8
+the mandelbrot set in chip-8. this renders 16 iterations at 128x64 or 64x32 depending on the version. I had to use 8-bit integers like [52525rr](https://github.com/52525rr/)'s [mandelboy](https://github.com/52525rr/mandelboy)
 
 ### there are three versions of mandel8:
 mandel8: the original version made for xo-chip
